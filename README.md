@@ -69,18 +69,22 @@ Advanced wound monitoring system using sensors and ESP32
 
 ## 📊 GitHub Stats  
 
-![Stats](https://github-readme-stats.vercel.app/api?username=suchit-goled&show_icons=true&theme=tokyonight&cache_seconds=1800)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suchit-goled&show_icons=true&theme=tokyonight" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suchit-goled&layout=compact&theme=tokyonight&cache_seconds=1800)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suchit-goled&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🔥 GitHub Streak  
 
-![Streak](https://streak-stats.demolab.com?user=suchit-goled&theme=tokyonight&cache_seconds=1800)
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=suchit-goled&theme=tokyonight" />
+</p>
 ---
-
 
 ## 🐍 Contribution Snake
 
