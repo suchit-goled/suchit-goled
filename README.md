@@ -67,17 +67,17 @@ Advanced wound monitoring system using sensors and ESP32
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 
-![Suchit's GitHub stats](https://github-readme-stats.vercel.app/api?username=suchit-goled\&show_icons=true\&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=suchit-goled&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suchit-goled\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suchit-goled&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 GitHub Streak  
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=suchit-goled\&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=suchit-goled&theme=tokyonight&cache_seconds=1800)
 
 ---
 
@@ -95,8 +95,8 @@ Advanced wound monitoring system using sensors and ESP32
 ---
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: *(add your link)*
-* 📧 Email: *(add your email)*
+* 💼 LinkedIn: www.linkedin.com/in/suchit-goled-09a933339
+* 📧 Email: suchitgoled@gmail.com
 
 ---
 
