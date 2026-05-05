@@ -14,7 +14,7 @@
 * 🌐 Developed **Electronova (Electronics E-commerce Platform)**
 * 📡 Working on **Smart Inhaler & AI-based health monitoring systems**
 * 🧠 Interested in **Embedded Systems, AI, and Data-driven solutions**
-* 🎯 Goal: Build impactful tech products combining **hardware + software**
+* 🎯 Goal: Build impactful tech products combining **hardware + software** 
 
 ---
 
