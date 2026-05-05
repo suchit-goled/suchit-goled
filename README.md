@@ -3,40 +3,40 @@
 # 👋 Hi, I'm Suchit Goled
 
 🚀 Electronics & Communication Engineering Student
-💻 Full Stack Developer | 🤖 IoT + AI Enthusiast
-📍 India
+💻 Aspiring Full Stack Developer | Building Real-World Projects & Improving Daily | 🤖 IoT 
+
+📍 Bangalore, India
 
 ---
 
 ## 🌟 About Me
 
 * 🔧 I build **real-time IoT systems + web applications**
-* 🌐 Developed **Electronova (Electronics E-commerce Platform)**
-* 📡 Working on **Smart Inhaler & AI-based health monitoring systems**
-* 🧠 Interested in **Embedded Systems, AI, and Data-driven solutions**
+* 🌐 working on **Electronova (Electronics E-commerce Platform)**
+* 📡 built  **Smart Inhaler & AI-based health monitoring systems**
+* 🧠 Interested in **IOT, AI and Data-driven solutions**
 * 🎯 Goal: Build impactful tech products combining **hardware + software** 
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Tech Stack  
 
-### 💻 Programming
+<p align="center">
 
-`C` `Python` `JavaScript`
+<!-- Programming -->
+<img src="https://skillicons.dev/icons?i=c,python,javascript" />
 
-### 🌐 Web Development
+<br><br>
 
-`HTML` `CSS` `React` `Node.js` `MongoDB`
+<!-- Web Development -->
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,mongodb" />
 
-### ⚡ Tools & Platforms
+<br><br>
 
-`Arduino` `ESP32` `Git` `GitHub` `VS Code`
+<!-- Tools -->
+<img src="https://skillicons.dev/icons?i=arduino,git,github,vscode" />
 
-### 🤖 Domains
-
-`IoT` `Embedded Systems` `AI Applications`
-
----
+</p>
 
 ## 🚀 Projects
 
@@ -66,25 +66,27 @@ Advanced wound monitoring system using sensors and ESP32
 * Future scope: AI predictions & drug release
 
 ---
-
 ## 📊 GitHub Stats  
 
 <p align="center">
-  ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suchit-goled&theme=tokyonight)
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suchit-goled&theme=dracula" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suchit-goled&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suchit-goled&layout=compact&theme=dracula" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak  
+
+## 🔥 GitHub Activity  and streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=suchit-goled&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=suchit-goled&theme=dracula" />
 </p>
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=suchit-goled&theme=tdracula" />
+</p>
 
 ## 🐍 Contribution Snake
 
