@@ -21,19 +21,25 @@
 
 ## 🧠 Tech Stack  
 
+Programming 
 <p align="center">
 
-<!-- Programming -->
 <img src="https://skillicons.dev/icons?i=c,python,javascript" />
+</p>
 
 <br><br>
 
-<!-- Web Development -->
+ Web Development 
+<p align="center">
+
 <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,mongodb" />
+</p>
 
 <br><br>
 
-<!-- Tools -->
+ Tools 
+<p align="center">
+
 <img src="https://skillicons.dev/icons?i=arduino,git,github,vscode" />
 
 </p>
@@ -73,9 +79,8 @@ Advanced wound monitoring system using sensors and ESP32
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suchit-goled&layout=compact&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suchit-goled&theme=tokyonight" />
 </p>
-
 ---
 
 
