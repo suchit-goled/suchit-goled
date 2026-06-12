@@ -80,7 +80,7 @@ Advanced wound monitoring system using sensors and ESP32
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suchit-goled&theme=tokyonight" />
 </p>
----
+
 
 ## 🔥 GitHub Activity  and streak
 
