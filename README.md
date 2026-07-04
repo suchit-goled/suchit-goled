@@ -74,18 +74,18 @@ Advanced wound monitoring system using sensors and ESP32
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suchit-goled&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suchit-goled&theme=dracula&v=2" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suchit-goled&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suchit-goled&theme=tokyonight&v=2" />
 </p>
 
 
 ## 🔥 GitHub Activity  and streak
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=suchit-goled&theme=dracula" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=suchit-goled&theme=dracula&v=2" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=suchit-goled&v=2" />
