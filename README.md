@@ -88,7 +88,7 @@ Advanced wound monitoring system using sensors and ESP32
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=suchit-goled&theme=dracula" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=suchit-goled&theme=tdracula" />
+  <img src="https://streak-stats.demolab.com?user=suchit-goled&v=2" />
 </p>
 
 
