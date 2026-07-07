@@ -1,0 +1,29 @@
+name: Generate GitHub Streak
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # Runs every day at midnight UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate Streak Stats
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          user: suchit-goled
+          output: profile/streak.svg
+          theme: github-dark-blue
+
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "Update GitHub streak"
