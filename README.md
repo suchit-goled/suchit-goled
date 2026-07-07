@@ -86,7 +86,7 @@ Advanced wound monitoring system using sensors and ESP32
 
 
 <p align="center">
- ![GitHub Streak](https://streak-stats.demolab.com?user=suchit-goled&theme=tokyonight&hide_border=true)
+  <img src="profile/streak.svg" />
 </p>
 
 
